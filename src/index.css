@@ -1,0 +1,26 @@
+/* src/index.css */
+body {
+  background-color: #111;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+input, button {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: none;
+}
+
+button {
+  background-color: #2563eb;
+  color: white;
+  cursor: pointer;
+}
+
+table, th, td {
+  border: 1px solid #444;
+  padding: 10px;
+  text-align: center;
+}
